@@ -1,0 +1,27 @@
+# Directorios de compilación
+/bin
+/build
+/dist
+
+# Archivos binarios
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+
+# Archivos de entorno
+.env
+
+# Dependencias descargadas (opcional si usas módulos Go)
+vendor/
+
+# Archivos de depuración y logs
+*.log
+*.tmp
+*.swp
+
+# Archivos generados por IDEs
+.idea/
+.vscode/
+.DS_Store
